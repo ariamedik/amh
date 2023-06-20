@@ -27,7 +27,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL = "YOUR URL AFTER CLICK RUN BUTTON IN REPLIT";
+var hostURL = "https://amh-security.onrender.com";
 
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt = true;
